@@ -1,3 +1,4 @@
 - Mean and Standard Deviation
 - Regression
 - Bayes Theorem
+- Inference
